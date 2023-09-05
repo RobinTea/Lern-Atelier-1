@@ -14,7 +14,57 @@ Die erste Lern-Periode ist lange und ich werde mit grosser Wahrscheinlichkeit vi
 
 
 **05.09.2023 / OPL**
-- [ ] Projekt aussuchen (sehr wahrscheinlich das Zahlenratenspiel)
-- [ ] Starten
-- [ ] programmieren
-- [ ] beenden
+- [X] Projekt aussuchen (sehr wahrscheinlich das Zahlenratenspiel)
+- [X] Starten
+- [X] programmieren    (siehe unten)
+- [X] beenden          Ich bin viel schneller fertig geworden als gedacht
+
+
+            bool raten = true;
+            int versuche = 0;
+            
+            Random rnd = new Random();      //generiert zufällige Nummer von 1 bis 100
+            int zahl = rnd.Next(1, 101);
+
+            while (raten == true)           //while loop damit man mehrmals raten kann
+            {
+                Console.Write("Bitte geben sie eine Zahl ein: ");             //verlangt das der user eine zahl eingibt und wandelt sie zu einem int um
+                int gerateneZahl = (Convert.ToInt32(Console.ReadLine()));
+
+                if (zahl < gerateneZahl)                        //ist die Zahl zu gross zeigt sie diesen Text an
+                {
+                    Console.WriteLine("Zahl zu gross...");
+                }
+
+                if (zahl > gerateneZahl)                       //ist die Zahl zu klein zeigt sie diesen Text an
+                {
+                    Console.WriteLine("Zahl zu kein...");
+                }
+
+                if (zahl == gerateneZahl)                       //wurde die Zahl gefunden wird der loop geschlossen
+                {
+                    Console.WriteLine("Sie haben die Zahl gefunden!");
+                    raten = false;
+                }
+
+                versuche++;          //versuche werden gezählt
+
+            }
+
+            Console.WriteLine("Es war die Zahl "+ zahl);      //löst nach dem erraten die zahl auf (schriebt sie nochmal übersichtlich hin)
+            
+            
+            if (versuche == 1)
+            {               
+                Console.WriteLine("sie haben nur einen versuch gebraucht?!");    //zeigt nur an wenn man direkt die zahl erraten hat
+                Console.WriteLine("Sie schummeln doch iergendwie...");
+            }
+            else
+            {
+                Console.WriteLine("sie haben " + versuche + " versuche gebraucht");    //zeigt versuche an
+            }
+        }         
+
+da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter
+
+**12.09.2023 / OPL**
