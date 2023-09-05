@@ -65,6 +65,6 @@ Die erste Lern-Periode ist lange und ich werde mit grosser Wahrscheinlichkeit vi
             }
         }         
 
-da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter
+Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
 
 **12.09.2023 / OPL**
