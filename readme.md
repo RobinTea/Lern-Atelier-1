@@ -69,4 +69,12 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
 
 **12.09.2023 / OPL**
 - [ ] evt. ein anderes projekt finden/anfangen
-- [ ] an den Modulen arbeiten wenn ich nicht nachkomme oder wenn ich nichts zu tun habe
+      Ich war unentschlossen und konnte mich nicht für eine Projekt Idee entacheiden. Der Hauptgrund ist, dass ich noch nicht die richtigen Kentnisse habe. Ich denke das ic
+      erst nach den Herbstferien mit Projekten fortfahre. Es kann sein das ich mich plötzlich unentscheide und ein Projekt starte.
+- [x] an den Modulen arbeiten wenn ich nicht nachkomme oder wenn ich nichts zu tun habe
+      Ich habe an den Modulen gearbeitet und bin weitergekommen. Ich fand es mühsam das ein grosser Teil nicht mit Moodle-Tests bewertet wird sondern mit der Abgabe der
+      Dokumenten. Ich versuche sie vorsichtig und Detailiert zu machen, was sehr Zeit aufwändig ist. Ich bin zwar weiter gekommen aber ich habe das Gefühl, dass ich immer
+      noch nicht dort bin wo ich sein sollte.
+
+**19.09.2023**
+- [ ] An den Modulen 431 und 319 weitermachen
