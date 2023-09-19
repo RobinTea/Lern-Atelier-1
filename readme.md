@@ -77,4 +77,5 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
       noch nicht dort bin wo ich sein sollte.
 
 **19.09.2023**
-- [ ] An den Modulen 431 und 319 weitermachen
+- [ ] An den Modul 431 weiterarbeiten.
+      (so das die mindestziele und die erweitertenziele gemacht sind und das ich an den expertenziele arbeiten kann)
