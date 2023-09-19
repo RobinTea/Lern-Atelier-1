@@ -77,5 +77,13 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
       noch nicht dort bin wo ich sein sollte.
 
 **19.09.2023**
-- [ ] An den Modul 431 weiterarbeiten.
+- [X] An den Modul 431 (bis 1720) weiterarbeiten.
       (so das die mindestziele und die erweitertenziele gemacht sind und das ich an den expertenziele arbeiten kann)
+      Ich konnte recht gut arbeiten 1718 und 1720 beenden und bin nun fast dort, wo ich sein möchte.
+      ich kam gut voran auch wenn ich alles recht detailiert gemacht habe. das nächste mal werde ich mit 100%er Wahrscheinlichkeit ein Projekt anfangen.
+
+**26.09.2023**
+Taschenrechenr programmieren
+- [ ] tutotail suchen
+- [ ] programmieren
+- [ ] verstehen/lernen
