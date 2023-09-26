@@ -83,7 +83,7 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
       ich kam gut voran auch wenn ich alles recht detailiert gemacht habe. das nächste mal werde ich mit 100%er Wahrscheinlichkeit ein Projekt anfangen.
 
 **26.09.2023**
-Taschenrechenr programmieren
-- [ ] tutotail suchen
+Taschenrechenr programmieren (nur in der Konsole)
+- [ ] tutorial suchen
 - [ ] programmieren
 - [ ] verstehen/lernen
