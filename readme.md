@@ -1,12 +1,11 @@
-# Grobe Planung
-
 ***Robin Taing***
-
 ## 22.08.2023- Herbstferien
+**-Einführung-**
 
 In der ersten Lern-Periode möchte ich verschiedene Übungen machen, um mein können zu verbessern. Ich mache mich mit dem coden vertraut und bekomme gleichzeitig Praktische Erfahrung. Die Übungen sollten simpel und einfach/schnell zu lösen sein, damit ich so viel verschiedene wie möglich machen kann. Es könnte sein das ich mich irgendwann umentscheide und ein grösseres Projekt anfange. 
 Die erste Lern-Periode ist lange und ich werde mit grosser Wahrscheinlichkeit viel zu tun haben. Wenn der Fall eintreten sollte, dass ich in stress komme, erledige ich erst die Aufgaben die höchste Priorität haben befor ich weiter mit den Projekten mache. 
 
+_____________________________________________________________________________________________________________________________________________________________________________
 
 **29.08.2023**
 - [x] Modul-Aufgaben (M431) beenden und fortfahren ( erfolgreich abgeschlossen )
@@ -85,6 +84,18 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
 **26.09.2023**
 Taschenrechenr programmieren (nur in der Konsole)
 - [x] tutorial suchen (Link: https://www.youtube.com/watch?v=VvA28TwDE1A)
-- [x] programmieren (Im Ordner Code) 
+- [x] programmieren (Im Ordner "Taschenrechner") 
 - [ ] verstehen/lernen
       Es gab neue Begriffe die ich noch nie gehört habe z.B. Console.ReadKey(); Envirement.Exit(0); double wert = double.Parse(Console.ReadLine());
+      Ich habe auch erkannt, dass etwas dividiert durch 0, immer 8 gibt(steht wohl für unendlich). Ich habe dann hinzugefügt das es "infinity" anzeigt.
+      
+# Refelktion
+In dieser Lernperiode musste ich mich an einige neue Dinge gewöhnen. Ich war überrascht, dass das Lernatelier so flexibel ist. Man hatte die Freiheit, an den Modulen zu arbeiten. Man kann auch seine Projekte frei wählen. Das Problem war, dass mir keine Ideen gekommen sind, was ich machen könnte. Dies hat mich leicht gehindert. Aus diesem Grund habe ich am Mosul 431 weitergearbeite und bin dank dem gut vorangekommen. Trotzdem habe ich zwei Programmierprojekte abgeschlossen. Ich habe den tipp bekommen das ich ein Zahlrate Spiel machen sollte. Ich habe dann Dinge gebraucht die ich gelernt hatte, was ein gutes Gefühl ist. Es ist gut zu wissen das man die Dinge, die man lernt auch gebraucht wird. Das andere war ein Taschenrechner. Meine Kollegen haben mich inspiriert. Sie haben es in einem Fenster aufpoppen lassen die sie iergendwie mit win forts gemacht haben. Ich hingegen habe es in der Konsole gemacht, aber nun weiss ich das ich das mit dem Fenster auch machen möchte. Beim Anschauen des Tutorials habe ich neue begriffe gelernt die ich noch nicht kannte.
+
+Abgeschlossene Projekte:
+- Taschenrechner
+- Zhalerraten Spiel
+
+# VBV
+**(Verbesserungs Vorschläge für mich selbst)**
+Ich möchte mich mehr Inspirieren lassen. Mir fehlten Ideen oder Ich war einfach nicht daran gewöhnt, so viel Freiheit zu haben.
