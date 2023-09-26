@@ -84,6 +84,7 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
 
 **26.09.2023**
 Taschenrechenr programmieren (nur in der Konsole)
-- [ ] tutorial suchen
-- [ ] programmieren
+- [x] tutorial suchen (Link: https://www.youtube.com/watch?v=VvA28TwDE1A)
+- [x] programmieren (Im Ordner Code) 
 - [ ] verstehen/lernen
+      Es gab neue Begriffe die ich noch nie gehört habe z.B. Console.ReadKey(); Envirement.Exit(0); double wert = double.Parse(Console.ReadLine());
