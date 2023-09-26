@@ -83,7 +83,8 @@ Da ich keine weitere Ideen für ein Projekt habe, mache ich am Modul weiter.
 
 **26.09.2023**
 Taschenrechenr programmieren (nur in der Konsole)
-- [x] tutorial suchen (Link: https://www.youtube.com/watch?v=VvA28TwDE1A)
+- [x] tutorial suchen (Link: https://www.youtube.com/watch?v=VvA28TwDE1A) Ich hätte es auch ohne machen können. Ich habe erst gemerkt wie simpel es ist als ich schon am 
+      programmieren war.
 - [x] programmieren (Im Ordner "Taschenrechner") 
 - [ ] verstehen/lernen
       Es gab neue Begriffe die ich noch nie gehört habe z.B. Console.ReadKey(); Envirement.Exit(0); double wert = double.Parse(Console.ReadLine());
@@ -98,4 +99,4 @@ Abgeschlossene Projekte:
 
 # VBV
 **(Verbesserungs Vorschläge für mich selbst)**
-Ich möchte mich mehr Inspirieren lassen. Mir fehlten Ideen oder Ich war einfach nicht daran gewöhnt, so viel Freiheit zu haben.
+Ich möchte mich mehr Inspirieren lassen. Mir fehlten Ideen und Ich war einfach nicht daran gewöhnt, so viel Freiheit zu haben. Ich habe micih mit einem Kollegen unterhalten und er hat gemeint ich solle doch mehr im Internet nachschauen da wir sowieso noch nicht so viel können (noch nicht gelernt haben). Ich werde Herausfordernde Projekte finden die schwieriger sind als die, die ich bereits gemacht habe. 
