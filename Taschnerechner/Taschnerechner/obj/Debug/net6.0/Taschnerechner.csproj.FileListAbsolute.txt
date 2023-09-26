@@ -1,0 +1,14 @@
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\bin\Debug\net6.0\Taschnerechner.exe
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\bin\Debug\net6.0\Taschnerechner.deps.json
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\bin\Debug\net6.0\Taschnerechner.runtimeconfig.json
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\bin\Debug\net6.0\Taschnerechner.dll
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\bin\Debug\net6.0\Taschnerechner.pdb
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.AssemblyInfoInputs.cache
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.AssemblyInfo.cs
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.csproj.CoreCompileInputs.cache
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.dll
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\refint\Taschnerechner.dll
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.pdb
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\Taschnerechner.genruntimeconfig.cache
+C:\Users\RinSk\Desktop\School\workspace\code\Projects\Taschnerechner\Taschnerechner\obj\Debug\net6.0\ref\Taschnerechner.dll
