@@ -1,5 +1,5 @@
 ***Robin Taing***
-## 22.08.2023- Herbstferien
+## 22.08.2023 - Herbstferien
 **-Einführung-**
 
 In der ersten Lern-Periode möchte ich verschiedene Übungen machen, um mein können zu verbessern. Ich mache mich mit dem coden vertraut und bekomme gleichzeitig Praktische Erfahrung. Die Übungen sollten simpel und einfach/schnell zu lösen sein, damit ich so viel verschiedene wie möglich machen kann. Es könnte sein das ich mich irgendwann umentscheide und ein grösseres Projekt anfange. 
